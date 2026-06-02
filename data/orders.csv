@@ -1,0 +1,4 @@
+order_id,product,qty,price,status
+ORD-001,apel,2,10000,VALID
+ORD-002,jeruk,3,15000,VALID
+ORD-003,,1,12000,ERROR_PRODUCT_EMPTY
